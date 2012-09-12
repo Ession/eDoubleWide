@@ -1,0 +1,9 @@
+## Interface: 50001
+## Version: 5.0.1
+## Title: eDoubleWide
+## Notes: Doubles the size of the professions windows.
+## Author: Ession
+## LoadOnDemand: 1
+## LoadWith: Blizzard_TradeSkillUI
+
+eDoubleWide.lua
