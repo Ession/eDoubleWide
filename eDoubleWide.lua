@@ -4,7 +4,7 @@
 --
 --    Description:  Doubles the size of the professions windows.
 --
---        Version:  5.0.1
+--        Version:  5.2.1
 --
 --         Author:  Mathias Jost (mail@mathiasjost.com)
 --
